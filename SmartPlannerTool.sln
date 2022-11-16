@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SmartPlannerTool", "SmartPlannerTool.pyproj", "{C60AA2D5-ED11-4238-9BA0-0AB0DE173D9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C60AA2D5-ED11-4238-9BA0-0AB0DE173D9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C60AA2D5-ED11-4238-9BA0-0AB0DE173D9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BD11EAC-9D7F-417D-977A-F9B199F93714}
+	EndGlobalSection
+EndGlobal
